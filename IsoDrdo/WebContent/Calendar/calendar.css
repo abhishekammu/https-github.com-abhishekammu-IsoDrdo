@@ -1,0 +1,20 @@
+#calendarspace td {
+	width: 14.5%;
+	height: 13.5%;
+	max-height: 13.5%;
+	border: 0.25px solid green;
+	text-align: center;
+	vertical-align: middle;
+	background: white;
+	font-size: 18px;
+	border-radius: 0;
+	font-family: arial;
+	font-weight: bold;
+}
+#calendarspace{
+	border: 1px solid black;
+}
+
+.clickable{
+	cursor: pointer;
+}
